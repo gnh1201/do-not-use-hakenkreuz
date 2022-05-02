@@ -6,4 +6,6 @@ However, repositories such as `peacenotwar` include symbols that symbolize genoc
 
 I became suspicious of the real intentions of these people.
 
-For official information about the war in Ukraine, visit https://war.ukraine.ua/.
+For official information about the war in Ukraine, visit https://war.ukraine.ua/
+
+Do not refer to information produced from untrusted GitHub repositories.
